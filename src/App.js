@@ -1,7 +1,5 @@
 import './App.css'
-import './floodingMap'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './floodAvoidance'
 
 function App() {
   return (
